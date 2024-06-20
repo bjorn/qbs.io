@@ -6,8 +6,8 @@ title: Community
 
 Since The Qt Company stopped working on Qbs, it has been developed by the open-source community.
 We greatly improved the project since then, added a lot of new features and reworked core parts
-to boost performance. We hit a mahor milestone in April 2023, when we
-[released](../blog/release-2.0.0/) Qbs 2.0. For mor details on the State of the Project,
+to boost performance. We hit a major milestone in April 2023, when we
+[released](../blog/release-2.0.0/) Qbs 2.0. For more details on the State of the Project,
 see the related [blog post](../blog/project-state/).
 
 ## Getting Help and Submitting Bugs
